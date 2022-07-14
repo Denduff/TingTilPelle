@@ -1,0 +1,15 @@
+C:\Users\Duff\source\repos\PelleEksempler\FunktionelTerning\bin\Debug\net6.0\FunktionelTerning.exe
+C:\Users\Duff\source\repos\PelleEksempler\FunktionelTerning\bin\Debug\net6.0\FunktionelTerning.deps.json
+C:\Users\Duff\source\repos\PelleEksempler\FunktionelTerning\bin\Debug\net6.0\FunktionelTerning.runtimeconfig.json
+C:\Users\Duff\source\repos\PelleEksempler\FunktionelTerning\bin\Debug\net6.0\FunktionelTerning.dll
+C:\Users\Duff\source\repos\PelleEksempler\FunktionelTerning\bin\Debug\net6.0\FunktionelTerning.pdb
+C:\Users\Duff\source\repos\PelleEksempler\FunktionelTerning\obj\Debug\net6.0\FunktionelTerning.csproj.AssemblyReference.cache
+C:\Users\Duff\source\repos\PelleEksempler\FunktionelTerning\obj\Debug\net6.0\FunktionelTerning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duff\source\repos\PelleEksempler\FunktionelTerning\obj\Debug\net6.0\FunktionelTerning.AssemblyInfoInputs.cache
+C:\Users\Duff\source\repos\PelleEksempler\FunktionelTerning\obj\Debug\net6.0\FunktionelTerning.AssemblyInfo.cs
+C:\Users\Duff\source\repos\PelleEksempler\FunktionelTerning\obj\Debug\net6.0\FunktionelTerning.csproj.CoreCompileInputs.cache
+C:\Users\Duff\source\repos\PelleEksempler\FunktionelTerning\obj\Debug\net6.0\FunktionelTerning.dll
+C:\Users\Duff\source\repos\PelleEksempler\FunktionelTerning\obj\Debug\net6.0\refint\FunktionelTerning.dll
+C:\Users\Duff\source\repos\PelleEksempler\FunktionelTerning\obj\Debug\net6.0\FunktionelTerning.pdb
+C:\Users\Duff\source\repos\PelleEksempler\FunktionelTerning\obj\Debug\net6.0\FunktionelTerning.genruntimeconfig.cache
+C:\Users\Duff\source\repos\PelleEksempler\FunktionelTerning\obj\Debug\net6.0\ref\FunktionelTerning.dll
