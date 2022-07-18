@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Duff\\source\\repos\\PelleEksempler\\FillTheBlanks\\FillTheBlanks.csproj": {}
+    "C:\\Users\\Duff\\Desktop\\TingTilPelle\\FillTheBlanks\\FillTheBlanks.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Duff\\source\\repos\\PelleEksempler\\FillTheBlanks\\FillTheBlanks.csproj": {
+    "C:\\Users\\Duff\\Desktop\\TingTilPelle\\FillTheBlanks\\FillTheBlanks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Duff\\source\\repos\\PelleEksempler\\FillTheBlanks\\FillTheBlanks.csproj",
+        "projectUniqueName": "C:\\Users\\Duff\\Desktop\\TingTilPelle\\FillTheBlanks\\FillTheBlanks.csproj",
         "projectName": "FillTheBlanks",
-        "projectPath": "C:\\Users\\Duff\\source\\repos\\PelleEksempler\\FillTheBlanks\\FillTheBlanks.csproj",
+        "projectPath": "C:\\Users\\Duff\\Desktop\\TingTilPelle\\FillTheBlanks\\FillTheBlanks.csproj",
         "packagesPath": "C:\\Users\\Duff\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Duff\\source\\repos\\PelleEksempler\\FillTheBlanks\\obj\\",
+        "outputPath": "C:\\Users\\Duff\\Desktop\\TingTilPelle\\FillTheBlanks\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Duff\\AppData\\Roaming\\NuGet\\NuGet.Config",
